@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# Dot Files and Directories
+.*/
+
+# Build Directories
+cmake-build*/
